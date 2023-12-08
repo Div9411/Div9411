@@ -1,8 +1,8 @@
 <div style="display: flex; justify-content: center;">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/f28b4022600593.58c272e374fa3.gif" height="200" alt="Coding Gif" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/f28b4022600593.58c272e374fa3.gif" height="200" width:"500" alt="Coding Gif" />
 </div>
 
-
+<div class="text-center">
 # Hi there, I'm Divyansh Singh! 👋
 
 "I'm an aspiring front-end developer who is passionate about creating awesome web experiences."
@@ -23,3 +23,5 @@
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/work-divyansh-singh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:work.divyanshsingh@gmail.com)
+
+</div>
