@@ -2,7 +2,7 @@
 
 # Hi there, I'm Divyansh Singh! 👋
 
-I'm an aspiring front-end developer passionate about creating awesome web experiences.
+"I'm an aspiring front-end developer who is passionate about creating awesome web experiences."
 
 ## Skills
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
