@@ -1,4 +1,7 @@
-<img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" width="300" height="300" alt="Coding Gif" />
+<div style="display: flex; justify-content: center;">
+  <img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" width="300" height="300" alt="Coding Gif" />
+</div>
+
 
 # Hi there, I'm Divyansh Singh! 👋
 
