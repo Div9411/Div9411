@@ -1,4 +1,4 @@
-![Coding Gif](https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif){ width=50% height=50% }
+<img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" width="300" height="300" alt="Coding Gif" />
 
 # Hi there, I'm Divyansh Singh! 👋
 
