@@ -1,4 +1,4 @@
-![Coding Gif](https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif)
+![Coding Gif](https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif){ width=50% height=50% }
 
 # Hi there, I'm Divyansh Singh! 👋
 
