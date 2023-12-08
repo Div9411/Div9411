@@ -2,7 +2,7 @@
 
 # Hi there, I'm Divyansh Singh! 👋
 
-I'm an aspiring front-end developer who's passionate about creating awesome web experiences. 
+I'm an aspiring front-end developer passionate about creating awesome web experiences.
 
 ## Skills
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
@@ -18,5 +18,5 @@ I'm an aspiring front-end developer who's passionate about creating awesome web 
 ![React Hot Toast](https://img.shields.io/badge/-React%20Hot%20Toast-FAB62B?style=for-the-badge)
 
 ## Let's Connect!
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/work-divyansh-singh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or drop me an email at ![work.divyanshsingh@gmail.com](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge).
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/work-divyansh-singh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:work.divyanshsingh@gmail.com)
