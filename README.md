@@ -1,11 +1,11 @@
-<div style="display: flex; justify-content: center;border-radius:15px">
+<div style="display: flex; justify-content: center;">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/f28b4022600593.58c272e374fa3.gif" height="100"  alt="Coding Gif" />
 </div>
 
 
 # Hi there, I'm Divyansh Singh! 👋
 
-"I'm an aspiring front-end developer who is passionate about creating awesome web experiences."
+I'm an aspiring front-end developer who is passionate about creating awesome web experiences.
 
 ## Skills
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
