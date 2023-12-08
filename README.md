@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center;">
-  <img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" width="300" height="300" alt="Coding Gif" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/f28b4022600593.58c272e374fa3.gif" width="300" height="300" alt="Coding Gif" />
 </div>
 
 
