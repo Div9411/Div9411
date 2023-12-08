@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: center;">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/f28b4022600593.58c272e374fa3.gif" height="100"  alt="Coding Gif" />
-</div>
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/f28b4022600593.58c272e374fa3.gif" height="100" alt="Coding Gif" />
+</p>
 
 
 # Hi there, I'm Divyansh Singh! 👋
