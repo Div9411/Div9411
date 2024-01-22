@@ -19,6 +19,7 @@ I'm an aspiring front-end developer who is passionate about creating awesome web
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/-Supabase-0056D2?logo=supabase&logoColor=white&style=for-the-badge)
 ![React Hot Toast](https://img.shields.io/badge/-React%20Hot%20Toast-FAB62B?style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/work-divyansh-singh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
