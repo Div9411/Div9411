@@ -21,6 +21,11 @@ I'm an aspiring front-end developer who is passionate about creating awesome web
 ![Supabase](https://img.shields.io/badge/-Supabase-0056D2?logo=supabase&logoColor=white&style=for-the-badge)
 ![React Hot Toast](https://img.shields.io/badge/-React%20Hot%20Toast-FAB62B?style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/work-divyansh-singh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
