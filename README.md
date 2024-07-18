@@ -9,10 +9,10 @@ I'm an aspiring front-end developer who is passionate about creating awesome web
 
 ## Skills
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![React Query](https://img.shields.io/badge/-React%20Query-000000?logo=react-query&logoColor=white&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![React Hook Forms](https://img.shields.io/badge/-React%20Hook%20Forms-20232A?style=for-the-badge)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge)
